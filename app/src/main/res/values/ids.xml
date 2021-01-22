@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnModulo" type="id">Butmodulo</item>
+    <item name="btnSubtraction" type="id">Butsub</item>
+    <item name="btnDivision" type="id">Butdiv</item>
+    <item name="btnMultiplication" type="id">Butmul</item>
+    <item name="txtOperand2" type="id">Operand2</item>
+    <item name="txtOperand1" type="id">Operand1</item>
+    <item name="textView" type="id">Weezy's Calculator</item>
+    <item name="textView2" type="id">operand1</item>
+    <item name="btnAddition" type="id">Butad</item>
+    <item name="textView4" type="id">The result is</item>
+    <item name="txtAnswer" type="id">Answer</item>
+    <item name="textView3" type="id">Operand2</item>
+</resources>
